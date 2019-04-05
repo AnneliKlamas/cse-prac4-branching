@@ -1,0 +1,4 @@
+1. Existing branches in this project are answers and master.
+2. Branch index has been merged into master.
+3. Repository have 16 commits in total.
+4. Commits that belong to branch package and don't belong to the branch master are: "Added package", "Added locked package", "Removed lock".
